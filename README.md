@@ -5,4 +5,4 @@
 
 # Deployment
 
-|<img src="https://user-images.githubusercontent.com/82761457/235241326-68310c4b-22cb-4d08-85ea-bb78e85c873a.jpg" width="1000">|
+<img src="https://user-images.githubusercontent.com/82761457/235241326-68310c4b-22cb-4d08-85ea-bb78e85c873a.jpg" width="1000">
